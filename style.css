@@ -1,3 +1,25 @@
+.smaller-image {
+    width: 250px
+}
 div {
-    background-color: red;
+    background-color: lavender;
+}
+h1 {
+    font-family: Tahoma;
+}
+.name-font {
+    font-family: brush script mt;
+    font-size: 40px;
+}
+.thin-black-border {
+    border-color: black;
+    border-width: 10px;
+    border-style: dotted;
+    padding: 20px;
+}
+#footer {
+    padding-top: 100px;
+}
+.margin {
+    margin: 100px;
 }
